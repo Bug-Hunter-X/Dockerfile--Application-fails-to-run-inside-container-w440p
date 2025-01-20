@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Dockerfiles where an application fails to run inside the container due to an unresolved dependency or an issue within the application's code. The initial Dockerfile lacks crucial error handling and debugging steps, while the solution emphasizes best practices for building robust Docker images.
